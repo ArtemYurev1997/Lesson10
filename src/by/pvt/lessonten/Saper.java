@@ -11,8 +11,6 @@ public class Saper implements RobotEngineer {
     private boolean isSwitch;
 
 
-
-
     @Override
     public void create() {
         model = "F-300";
